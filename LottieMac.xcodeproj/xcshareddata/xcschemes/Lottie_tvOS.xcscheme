@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "486E84E1220A357D007CD915"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie_tvOS"
-               ReferencedContainer = "container:Lottie.xcodeproj">
+               BlueprintName = "LottieMac_tvOS"
+               ReferencedContainer = "container:LottieMac.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "486E84E1220A357D007CD915"
             BuildableName = "Lottie.framework"
-            BlueprintName = "Lottie_tvOS"
-            ReferencedContainer = "container:Lottie.xcodeproj">
+            BlueprintName = "LottieMac_tvOS"
+            ReferencedContainer = "container:LottieMac.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -65,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "486E84E1220A357D007CD915"
             BuildableName = "Lottie.framework"
-            BlueprintName = "Lottie_tvOS"
-            ReferencedContainer = "container:Lottie.xcodeproj">
+            BlueprintName = "LottieMac_tvOS"
+            ReferencedContainer = "container:LottieMac.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
