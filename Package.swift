@@ -2,15 +2,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "lottieMac",
+    name: "LottieMac",
     platforms: [.macOS("10.10")],
     // platforms: [.iOS("9.0"), .macOS("10.10"), tvOS("9.0"), .watchOS("2.0")],
     products: [
-        .library(name: "lottieMac", targets: ["lottieMac"])
+        .library(name: "LottieMac", targets: ["LottieMac"])
     ],
     targets: [
         .target(
-            name: "lottieMac",
+            name: "LottieMac",
             path: "lottie-swift/src",
             exclude: ["Public/iOS"]
         )
